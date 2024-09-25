@@ -2,7 +2,7 @@ package com.project.shopapp_backend.models;
 
 import jakarta.persistence.*;
 import lombok.*;
-
+@Builder
 @Entity
 @Data
 @Getter

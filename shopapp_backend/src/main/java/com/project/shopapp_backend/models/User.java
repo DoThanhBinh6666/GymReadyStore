@@ -4,7 +4,7 @@ import jakarta.persistence.*;
 import lombok.*;
 
 import java.util.Date;
-
+@Builder
 @Entity
 @Data
 @Getter
